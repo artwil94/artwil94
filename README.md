@@ -19,7 +19,7 @@
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Gradle.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
 <img align="left" alt="Bitbucket" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cmmOu4xUkNNZlk-qh4r47i9n6R1mLQD-3Q&s" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Jira.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 

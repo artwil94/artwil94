@@ -1,6 +1,5 @@
 ## Hi there, I'm Artur👋
 
-# 💫 About Me:
 👨🏼‍💻Mobile Developer sharing about my journey and learnings in tech<br>👨🏻‍🎓 Studied Mechatronic Engineering at the Warsaw University of Technology<br>💭 Currently learning about  mobile development!<br>🔭 I’m currently working on application for timber transport:  https://github.com/artwil94/timber-transport-manager<br>🤝 I’m looking for new job opportunities<br><br>
 
 

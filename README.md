@@ -12,17 +12,16 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Android.svg" />
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" />
+<img align="left" alt="Compose" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/29678011/201169741-7f95aae5-4cf7-462c-8cbd-e4dc5b0b2346.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Gradle.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Bitbucket" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Jira.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

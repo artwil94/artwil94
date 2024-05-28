@@ -1,6 +1,6 @@
 ## Hi there, I'm Artur👋
 
-
+Innovative Android Developer with a solid foundation in mechatronics, seamlessly blending engineering expertise with mobile app development skills. Proficient in Java, Kotlin, and Jetpack Compose, with a keen eye for detail and a passion for creating user-centric applications. Experienced in optimizing app performance and ensuring compatibility across diverse Android devices. Recognized as a collaborative team player who consistently delivers high-quality solutions. Committed to continuous learning and staying updated with emerging technologies to drive innovation in the ever-evolving field of mobile development.
 
 
 ## 🌐 Socials:
